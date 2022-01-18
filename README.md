@@ -5,3 +5,4 @@ extension
 theory
 index
 theory.2
+frequency
