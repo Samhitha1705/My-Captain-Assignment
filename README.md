@@ -6,3 +6,4 @@ theory
 index
 theory.2
 frequency
+theory.3
