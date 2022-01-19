@@ -7,3 +7,6 @@ index
 theory.2
 frequency
 theory.3
+recursion
+dynamic
+space
